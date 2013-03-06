@@ -1,0 +1,19 @@
+sobs> sobs> [Error : unrecognized input]
+sobs> sobs> [Welcome ly2278, you have successfully signed in]
+sobs> [Client table updated.]
+sobs> sobs> [Error: arguments]
+sobs> sobs> [
+1 pen ly2278 50 500 "Nive pen!"
+2 ballpen ly2278 5 50 "Nice ballpen!"]
+sobs> sobs> [2 ballpen ly2278 5 50 "Nice ballpen!"]
+sobs> sobs> [Error: arguments]
+sobs> sobs> [Error: arguments]
+sobs> sobs> [Error: negative bid]
+sobs> sobs> [Error: owner]
+sobs> sobs> [
+1 pen ly2278 50 500 "Nive pen!"
+2 ballpen ly2278 5 50 "Nice ballpen!"
+3 paper ly 1 3 "white"]
+sobs> sobs> [Error: arguments]
+sobs> sobs> [Error: arguments]
+sobs> 
